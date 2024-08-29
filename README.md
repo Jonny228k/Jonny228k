@@ -3,6 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonnyoliveira80/)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devjonnyprog?is_from_webapp=1&sender_device=pc)
 [![Fiveer](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/joao_pimentel22?up_rollout=true)
+
 ![Jonny GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny228k&show_icons=true&theme=radical)
 
 ## Technologies I use daily
